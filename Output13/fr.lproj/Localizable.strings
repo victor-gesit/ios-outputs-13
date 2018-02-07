@@ -1,0 +1,15 @@
+/*
+ Localizable.strings
+ Output13
+ 
+ Created by Victor Idongesit on 11/12/2017.
+ Copyright © 2017 Victor Idongesit. All rights reserved.
+ */
+"aboutBTCLabel" = "À propos de Blockchain";
+"timeLabel" = "It's 10:10 am.";
+"morning" = "Bon jour";
+"afternoon" = "Bon apres midi";
+"evening" = "Bon soir";
+"convertLabel" = "Convertir";
+"aboutBTCTextView" = "Une chaîne de blocs, à l'origine une chaîne de blocs, est une liste d'enregistrements en continuelle extension, appelés blocs, qui sont liés et sécurisés en utilisant la cryptographie. Chaque bloc contient généralement un pointeur de hachage en tant que lien vers un bloc précédent, un horodatage et des données de transaction. De par leur conception, les blockchains sont intrinsèquement résistantes à la modification des données. Harvard Business Review le définit comme «un livre ouvert et distribué qui peut enregistrer les transactions entre deux parties de manière efficace et vérifiable et permanente». Pour une utilisation en tant que ledger distribué, une chaîne de blocs est généralement gérée par un réseau peer-to-peer adhérant collectivement à un protocole pour valider de nouveaux blocs. Une fois enregistrées, les données d'un bloc donné ne peuvent pas être modifiées rétroactivement sans l'altération de tous les blocs suivants, ce qui nécessite une collusion de la majorité du réseau. Les blockchains sont sécurisées par leur conception et constituent un exemple de système informatique distribué avec une tolérance aux fautes byzantines élevée. Un consensus décentralisé a donc été réalisé avec une blockchain. Cela rend les chaînes de blocs potentiellement appropriées pour l'enregistrement d'événements, de dossiers médicaux et d'autres activités de gestion de documents, comme la gestion des identités, le traitement des transactions, la provenance des documents ou la traçabilité des aliments.";
+"pricingLabel" = "Le prix actuel d'une CTB est de ";

@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Output13
+
+  Created by Victor Idongesit on 11/12/2017.
+  Copyright © 2017 Victor Idongesit. All rights reserved.
+*/
+"aboutBTCLabel" = "About Blockchain";
+"timeLabel" = "It's 10:10 am.";
+"morning" = "Good morning";
+"afternoon" = "Good afternoon";
+"evening" = "Good evening";
+"convertLabel" = "Convert";
+"aboutBTCTextView" = "A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block,a timestamp and transaction data. By design, blockchains are inherently resistant to modification of the data. Harvard Business Review defines it as \"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way.\" For use as a distributed ledger, a blockchain is typically managed by a peer-to-peer network collectively adhering to a protocol for validating new blocks. Once recorded, the data in any given block cannot be altered retroactively without the alteration of all subsequent blocks, which requires collusion of the network majority. Blockchains are secure by design and are an example of a distributed computing system with high Byzantine fault tolerance. Decentralized consensus has therefore been achieved with a blockchain. This makes blockchains potentially suitable for the recording of events, medical records, and other records management activities, such as identity management, transaction processing, documenting provenance, or food traceability.";
+"pricingLabel" = "The current price of one BTC is ";
